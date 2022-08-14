@@ -1,4 +1,4 @@
-package resh.data.structure.array.practice;
+package array.practice;
 class Students {
     public String name;
     Students(String name){

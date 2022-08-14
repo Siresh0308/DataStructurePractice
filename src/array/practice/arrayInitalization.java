@@ -1,4 +1,4 @@
-package resh.data.structure.array.practice;
+package array.practice;
 class Student {
     public int roll_no;
     public String name;
